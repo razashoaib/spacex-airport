@@ -1,0 +1,2 @@
+# spacex-airport
+We have been very busy for the past 12 months building aircraft hangars, digging safety tunnels and shafts, closing deals with NASA, SpaceX and ISA. Everything is almost ready and as a consequence of our partnership with SpaceX, we need to build our Ground Control flight dashboard to support their needs. The client of this dashboard is based in ReactJS and the server side is developed in NodeJS with MySQL as the database.
